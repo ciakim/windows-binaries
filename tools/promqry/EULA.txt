@@ -1,0 +1,45 @@
+END-USER LICENSE AGREEMENT FOR
+PROMQRY and PROMQRYUI
+
+IMPORTANT—READ CAREFULLY: This End-User License Agreement (“EULA”) is a legal agreement between you (either an individual or a single entity) and Microsoft Corporation for the Microsoft software Product identified above, which includes computer software (“SOFTWARE”). The terms and conditions of this EULA are separate and apart from those contained in any other agreement between Microsoft Corporation and you.   BY INSTALLING, COPYING OR OTHERWISE USING THE PRODUCT (AS DEFINED BELOW), YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA.  IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL, COPY OR USE THE PRODUCT.
+
+LICENSE
+
+The Product is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. Microsoft or its suppliers owns the title, copyright and other intellectual property rights in the SOFTWARE.  The SOFTWARE is licensed, not sold.  
+
+1.	GRANT OF LICENSE.  Microsoft grants you the following rights provided that you comply with all terms and conditions of this EULA:
+
+You may download, install and use the SOFTWARE on an unlimited number of computers, including workstations, terminals or other digital electronic devices (“Computers”) residing on your premises that are running a validly licensed copy of a Microsoft operating system product. You may use the SOFTWARE for your internal use only. You may not modify the SOFTWARE.  In addition, Microsoft hereby grants to you a royalty-free, non-exclusive, personal, non-transferable, non-assignable, limited license to reproduce, license, sublicense or otherwise distribute the SOFTWARE to third parties. 
+
+2.	DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+
+•	Limitations on Reverse Engineering, Decompilation and Disassembly.  You may not reverse engineer, decompile, or disassemble the SOFTWARE, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+•	Links to Third Party Sites.  You may link to third party sites through the use of the SOFTWARE.  The third party sites are not under the control of Microsoft, and Microsoft is not responsible for the contents of any third party sites, any links contained in third party sites, or any changes or updates to third party sites.  Microsoft is not responsible for transmission received from any third party sites.  Microsoft is providing these links to third party sites to you only as a convenience, and the inclusion of any link does not imply an endorsement by Microsoft of the third party site.
+
+
+
+•	Termination.  Without prejudice to any other rights, Microsoft may terminate this EULA if you fail to comply with the terms and conditions of this EULA.  In such event, you must destroy all copies of the SOFTWARE and all of its component parts.
+
+•	Transfer.  You may not transfer the SOFTWARE to another user.  No Rental.  You may not rent, lease, or lend the SOFTWARE.
+
+•	Support Services: No technical support shall be provided for the SOFTWARE. 
+
+•	Reservation of Rights. Microsoft reserves all rights not expressly granted to you in this EULA.
+
+3.  U.S. GOVERNMENT RESTRICTED RIGHTS. The SOFTWARE is provided with RESTRICTED RIGHTS. Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Microsoft Corporation/One Microsoft Way/Redmond, WA 98052-6399. 
+
+4.  EXPORT RESTRICTIONS.  The SOFTWARE is of U.S. origin. You agree to comply with all applicable international and national laws that apply to the SOFTWARE, including the U.S. Export Administration Regulations, as well as end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information, see <http://www.microsoft.com/exporting/>.
+
+5.  APPLICABLE LAW.  If you acquired this SOFTWARE in the United States, this EULA is governed by the laws of the State of Washington.  If you acquired this SOFTWARE in Canada, unless expressly prohibited by local law, this EULA is governed by the laws in force in the Province of Ontario, Canada; and, in respect of any dispute which may arise hereunder, you consent to the jurisdiction of the federal and provincial courts sitting in Toronto, Ontario.  If this SOFTWARE was acquired outside the United States, then local law may apply.
+
+6.	DISCLAIMER OF  WARRANTIES.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MICROSOFT AND ITS SUPPLIERS PROVIDE THE SOFTWARE AS IS AND WITH ALL FAULTS, AND HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY (IF ANY) WARRANTIES, DUTIES OR CONDITIONS OF OR RELATED TO: MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, LACK OF VIRUSES, ACCURACY OR COMPLETENESS OF RESPONSES, RESULTS, WORKMANLIKE EFFORT AND LACK OF NEGLIGENCE.  ALSO, THERE IS NO WARRANTY, DUTY OR CONDITION OF TITLE, CORRESPONDENCE TO DESCRIPTION OR NON-INFRINGEMENT.  THE ENTIRE RISK AS TO THE QUALITY, OR ARISING OUT OF THE USE OR PERFORMANCE OF THE SOFTWARE AND ANY SUPPORT SERVICES, REMAINS WITH YOU.  
+
+7.	EXCLUSION OF INCIDENTAL, CONSEQUENTIAL AND CERTAIN OTHER DAMAGES.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MICROSOFT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS EULA, EVEN IN THE EVENT OF THE FAULT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, BREACH OF CONTRACT OR BREACH OF WARRANTY OF MICROSOFT, AND EVEN IF MICROSOFT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+8.	LIMITATION OF LIABILITY AND REMEDIES.  NOTWITHSTANDING ANY DAMAGES THAT YOU MIGHT INCUR FOR ANY REASON WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ALL DAMAGES REFERENCED ABOVE AND ALL DIRECT OR GENERAL DAMAGES), THE ENTIRE LIABILITY OF MICROSOFT AND ANY OF ITS SUPPLIERS UNDER ANY PROVISION OF THIS EULA AND YOUR EXCLUSIVE REMEDY FOR ALL OF THE FOREGOING SHALL BE LIMITED TO ACTUAL DAMAGES INCURRED BY YOU BASED ON REASONABLE RELIANCE UP TO THE GREATER OF THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE OR FIVE DOLLARS (US$5.00).  THE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS (INCLUDING SECTIONS 6 AND 7 ABOVE) SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EVEN IF ANY REMEDY FAILS ITS ESSENTIAL PURPOSE.
+
+9.	ENTIRE AGREEMENT.  This EULA is the entire agreement between you and Microsoft relating to the SOFTWARE and supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to the SOFTWARE or any other subject matter covered by this EULA.  
+
+
+
