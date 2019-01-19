@@ -1,2 +1,2 @@
 # windows-binaries
-toos
+应用程序集
